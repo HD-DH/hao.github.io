@@ -17,8 +17,8 @@ GoogleScholar:
 ‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 ‬
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
+<table border="0" border-collapse: collapse>
+  <tr border-collapse: collapse>
     <td width="75%">
         School of Computer Science and Engineering</br> 
         University of Electronic Science and Technology of China</br>
