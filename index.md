@@ -1,22 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HD-DH/hao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### CONTACT ME                                               
-
-School of Computer Science and Engineering
-University of Electronic Science and Technology of China
-No.2006, Xiyuan Ave, West Hi-Tech Zone
-Chengdu 611731, China
-
-E-mail: haodongpost(at)gmail.com
-
-GoogleScholar: 
-‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 ‬
+## Welcome to Dong HAO's Pages
 
 
+### CONTACT INFO                                               
 <table frame=void>
   <tr frame=void>
     <td width="75%">
@@ -35,8 +20,9 @@ GoogleScholar:
     </td>
   </tr>
 </table>
- 
 
+### ABOUT ME
+I'm an associate professor in School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). Before working in UESTC, I obtained my Ph.D. in Informatics from Kyushu University, Japan under the supervision of Professor Makoto Yokoo. My research interests lies in the intersection of Artificial Intelligence and Economics, especially about challenging topics in Algorithmic Game Theory, Auction Design, Social Networks, Learning and Decision Making. I'm currently working on mechanism design and auction under social network scenario, repeated games with private monitoring, and multi-agent reinforcement learning.
 
 
 # Header 1
