@@ -4,12 +4,18 @@ You can use the [editor on GitHub](https://github.com/HD-DH/hao.github.io/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CONTACT ME                                               
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+School of Computer Science and Engineering
+University of Electronic Science and Technology of China
+No.2006, Xiyuan Ave, West Hi-Tech Zone
+Chengdu 611731, China
 
-```markdown
-Syntax highlighted code block
+E-mail: haodongpost(at)gmail.com
+
+GoogleScholar: 
+‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 ‬
+
 
 # Header 1
 ## Header 2
