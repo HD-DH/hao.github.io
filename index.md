@@ -17,7 +17,7 @@ GoogleScholar:
 ‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 ‬
 
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="75%">
         School of Computer Science and Engineering</br> 
