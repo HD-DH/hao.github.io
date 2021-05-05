@@ -20,15 +20,15 @@ GoogleScholar:
 <table border="0">
   <tr>
     <td width="75%">
-        <p>School of Computer Science and Engineering</p>
-        <p>University of Electronic Science and Technology of China</p>
-        <p><b>No.2006, Xiyuan Ave, West Hi-Tech Zone</b></p>
-        <p><b>Chengdu 611731, China</b></p>
+        <br/>School of Computer Science and Engineering</br> 
+        <br/>University of Electronic Science and Technology of China</br>
+        <br/>No.2006, Xiyuan Ave, West Hi-Tech Zone</br>
+        <br/>Chengdu 611731, China</br>
         <p><b></b></p>
-        <p><b>E-mail: haodongpost(at)gmail.com</b></p>
+        <br/>E-mail: haodongpost(at)gmail.com</br>
         <p><b>  </b></p>
-        <p><b>GoogleScholar: </b></p>
-        <p><b>‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 ‬</b></p>
+        <br/>GoogleScholar: </br>
+        <br/>‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 </br>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
