@@ -42,9 +42,9 @@ Artificial Intelligence Journal</br>
 
 
 ### RESEARCH INTEREST 
-<p>Game Theory, Auction, Incentive Design </p><\br>
-<p>Social and Economic Networks</p><\br>
-<p>Learning and Decision Making</p><\br>
+<b>Algorithmic Game Theory, Market Mechanism Design, Incentive Design </p><\br>
+<b>Social and Economic Networks</p><\br>
+<b>Learning and Decision Making</p><\br>
 
 
 ### EDUCATION
