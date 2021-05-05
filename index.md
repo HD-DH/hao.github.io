@@ -32,13 +32,13 @@ I also teach a class on the practice of Artificial Intelligence for advanced und
 My class Algorithmic Game Theory has been awarded as the “Outstanding UESTC class”. 
 
 ### ACADEMIC SERVICE
-In the past years, I have been serving as a reviewer/PC/Senior PC for the following journals and conferences.</br>
-<p>Reviewer for journals</p></br>
+In the past years, I have been serving as a reviewer/PC/Senior PC for journals or conferences.</br>
+<b>Reviewer for journals</b></br>
 Artificial Intelligence Journal</br>
 Journal of Autonomous Agents and Multi-Agent Systems</br>
 IEEE Transactions on Cognitive Communications and Networking</br>
 IEEE Transactions on Vehicular Technology</br>
-<p>Senior PC/PC Member for conferences</p></br>
+<b>Senior PC/PC Member for conferences</b></br>
 AAAI, IJCAI, AAMAS, ECAI</br>
 
 
