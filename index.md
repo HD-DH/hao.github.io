@@ -25,6 +25,34 @@
 I'm an associate professor in School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). Before working in UESTC, I obtained my Ph.D. in Informatics from Kyushu University, Japan under the supervision of Professor Makoto Yokoo. My research interests lies in the intersection of Artificial Intelligence and Economics, especially about challenging topics in Algorithmic Game Theory, Auction Design, Social Networks, Learning and Decision Making. I'm currently working on mechanism design and auction under social network scenario, repeated games with private monitoring, and multi-agent reinforcement learning.
 
 
+### EDUCATION
+<b>September 2003 – July 2007</b>	</br> 
+University of Electronic Science and Technology of China           	 Chengdu, China</br> 
+B.S. in Computer Science  </br>                     
+<b>September 2007 – July 2010	</b></br> 
+University of Electronic Science and Technology of China             Chengdu, China</br> 
+M.S. in Computer Science         </br>                  
+<b>April 2010 – July 2020	</b></br> 
+Kyushu University                                                    Fukuoka, Japan</br> 
+Ph.D. in Informatics</br> 
+Advisor: Prof. Makoto Yokoo  </br> 
+
+### WORK EXPERIENCE 
+<b>April 2013 – July 2013</b>		</br> 
+Kyushu University Academic                                           Fukuoka, Japan </br> 
+Research Assistant</br> 
+<b>August 2013 – July 2015</b></br> 
+University of Electronic Science and Technology of China             Chengdu China </br> 
+School of Computer Science & Engineering</br> 
+Assistant Professor </br> 
+<b>August 2015 – Now</b></br> 
+University of Electronic Science and Technology of China              Chengdu China</br> 
+School of Computer Science & Engineering</br> 
+Associate Professor</br> 
+
+
+
+
 # Header 1
 ## Header 2
 ### Header 3
