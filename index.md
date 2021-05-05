@@ -20,8 +20,8 @@ GoogleScholar:
 <table border="0">
   <tr>
     <td width="75%">
-        <b>School of Computer Science and Engineering</b>
-        <p><b>University of Electronic Science and Technology of China</b></p>
+        School of Computer Science and Engineering
+        University of Electronic Science and Technology of China
         <p><b>No.2006, Xiyuan Ave, West Hi-Tech Zone</b></p>
         <p><b>Chengdu 611731, China</b></p>
         <p><b></b></p>
