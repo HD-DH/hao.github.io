@@ -31,7 +31,7 @@ GoogleScholar:
         https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 </br>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/citations.jpeg" width="100%">  
     </td>
   </tr>
 </table>
