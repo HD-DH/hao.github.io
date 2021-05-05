@@ -20,15 +20,15 @@ GoogleScholar:
 <table border="0">
   <tr>
     <td width="75%">
-        School of Computer Science and Engineering
-        University of Electronic Science and Technology of China
-        No.2006, Xiyuan Ave, West Hi-Tech Zone
-        Chengdu 611731, China
-
-        E-mail: haodongpost(at)gmail.com
-
-        GoogleScholar: 
-        ‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 ‬
+        <p><b>School of Computer Science and Engineering</b></p>
+        <p><b>University of Electronic Science and Technology of China</b></p>
+        <p><b>No.2006, Xiyuan Ave, West Hi-Tech Zone</b></p>
+        <p><b>Chengdu 611731, China</b></p>
+        <p><b></b></p>
+        <p><b>E-mail: haodongpost(at)gmail.com</b></p>
+        <p><b>  </b></p>
+        <p><b>GoogleScholar: </b></p>
+        <p><b>‪https://scholar.google.com/citations?user=aUBGG_sAAAAJ&hl=zh-CN&authuser=1 ‬</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
