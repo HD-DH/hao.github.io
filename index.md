@@ -33,10 +33,7 @@ My class Algorithmic Game Theory has been awarded as the “Outstanding UESTC cl
 
 ### ACADEMIC SERVICE
 <b>Reviewer for journals</b></br>
-Artificial Intelligence Journal</br>
-   Journal of Autonomous Agents and Multi-Agent Systems</br>
-   IEEE Transactions on Cognitive Communications and Networking</br>
-   IEEE Transactions on Vehicular Technology</br>
+Artificial Intelligence Journal; Journal of Autonomous Agents and Multi-Agent Systems; IEEE Transactions on Cognitive Communications and Networking; IEEE Transactions on Vehicular Technology</br>
 <b>Senior PC/PC Member for conferences</b></br>
    AAAI, IJCAI, AAMAS, ECAI</br>
 
